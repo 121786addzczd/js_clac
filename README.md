@@ -1,9 +1,6 @@
 # 実装課題　電卓
 ## ver.JavaScript 
 ボタン入力とキーボード入力どちらも対応可能となっております。
-[![Image from Gyazo](https://i.gyazo.com/3e0ff2638def53eea4fe8b1e935930d2.png)](https://gyazo.com/3e0ff2638def53eea4fe8b1e935930d2)
-
-[![Image from Gyazo](https://i.gyazo.com/2cbf6b68ee1fe0b280ec6fd2d7761b03.gif)](https://gyazo.com/2cbf6b68ee1fe0b280ec6fd2d7761b03)
 
 [![Image from Gyazo](https://i.gyazo.com/2cbf6b68ee1fe0b280ec6fd2d7761b03.gif)](https://gyazo.com/2cbf6b68ee1fe0b280ec6fd2d7761b03)
 *index.html* 
@@ -151,3 +148,4 @@ body {
 }
 ```
 
+[![Image from Gyazo](https://i.gyazo.com/4639650be1c752fb79d784357b59d82e.gif)](https://gyazo.com/4639650be1c752fb79d784357b59d82e)
